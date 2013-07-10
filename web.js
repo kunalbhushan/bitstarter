@@ -1,4 +1,6 @@
 var fs=require('fs');
+
+
  buff = new Buffer(fs.readFileSync('index.html','utf8'));
 
 
