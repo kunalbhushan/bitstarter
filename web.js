@@ -1,5 +1,5 @@
 var fs=require('fs');
- buff = new Buffer(fs.readFileSync('../bitstarter/index.html','utf8'));
+ buff = new Buffer(fs.readFileSync('index.html','utf8'));
 
 
 
